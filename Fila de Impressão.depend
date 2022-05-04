@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1651456792 source:c:\users\iandev\dropbox\pc\documents\fila de impressão\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Trab4.h"
+
+1651449850 c:\users\iandev\dropbox\pc\documents\fila de impressão\arquivo.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"Trab4.h"
+
+1651448883 c:\users\iandev\dropbox\pc\documents\fila de impressão\trab4.h
+
+1651459359 source:c:\users\iandev\dropbox\pc\documents\fila de impressão\arquivo.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"Trab4.h"
+
